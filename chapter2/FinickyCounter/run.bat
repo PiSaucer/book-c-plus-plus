@@ -1,0 +1,2 @@
+FinickyCounter.exe
+pause

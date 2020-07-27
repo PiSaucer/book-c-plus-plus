@@ -1,0 +1,2 @@
+ScoreRater.exe
+pause
