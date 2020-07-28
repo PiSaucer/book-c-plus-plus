@@ -1,5 +1,7 @@
 # Beginning C++ Through Game Programming
 
+[![Run on Repl.it](https://repl.it/badge/github/PiSaucer/book-c-plus-plus)](https://repl.it/github/PiSaucer/book-c-plus-plus)
+
 I was given a book to learn c++. I thought to make github of the book of the code whould be a great idea for people to use. The book is called, "Beginning C++ Through Game Programming, Third Edition" By Michael Daweson [Amazon Link](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420)
 
 [![cover](https://images-na.ssl-images-amazon.com/images/I/41tREHQ33BL._SX402_BO1,204,203,200_.jpg)](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420)
