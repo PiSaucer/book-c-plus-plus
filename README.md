@@ -20,7 +20,7 @@ publisher.
 ```
 
 ## License
-In our `LICENSE` file, we define Rboxlo as software dedicated and released into the public domain, and we waive any copyright from the project's source files. Our license file is based off of the [Unlicense.](https://unlicense.org/)
+In our `LICENSE` file, we define this project as software dedicated and released into the public domain, and we waive any copyright from the project's source files. Our license file is based off of the [Unlicense.](https://unlicense.org/)
 
 This project is for educational purposes only.
 
