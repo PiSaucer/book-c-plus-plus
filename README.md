@@ -9,7 +9,14 @@ My goal: Finish it over the 2020 Summer
 # Copyright
 
 ```
-ALL RIGHTS RESERVED. No part of this work covered by the copyright herein may be reproduced, transmitted, stored, or used in any form or by any means graphic, electronic, or mechanical, including but not limited to photocopying, recording, scanning, digitizing, taping, Web distribution, information networks, or information storage and retrieval systems, except as permitted under Section 107 or 108 the 1976 United States Copyright Act, without the prior written permission of the publisher.
+ALL RIGHTS RESERVED. No part of this work covered by the copyright 
+herein may be reproduced, transmitted, stored, or used in any form or
+by any means graphic, electronic, or mechanical, including but not
+limited to photocopying, recording, scanning, digitizing, taping, Web
+distribution, information networks, or information storage and retrieval
+systems, except as permitted under Section 107 or 108 the 1976
+United States Copyright Act, without the prior written permission of the
+publisher.
 ```
 
 ## License
