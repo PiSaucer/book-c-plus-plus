@@ -1,2 +1,0 @@
-GuessMyNumber.exe
-pause

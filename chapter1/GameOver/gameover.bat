@@ -1,2 +1,0 @@
-GameOver.exe
-pause
