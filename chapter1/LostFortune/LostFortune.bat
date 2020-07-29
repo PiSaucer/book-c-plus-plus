@@ -1,0 +1,2 @@
+LostFortune.exe
+pause
