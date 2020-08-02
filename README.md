@@ -9,7 +9,7 @@ I was given a book to learn c++. I thought to make github of the book of the cod
 
 [Amazon (4th Edition)](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1305109910/)
 
-[![cover](https://images-na.ssl-images-amazon.com/images/I/41tREHQ33BL._SX402_BO1,204,203,200_.jpg)](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420)
+[![cover](/docs/bookcover.jpg)](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420)
 
 My goal: Finish it over the 2020 Summer
 
