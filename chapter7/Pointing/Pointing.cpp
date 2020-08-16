@@ -15,5 +15,9 @@ int main()
     int score = 1000;
     pScore = &score; //assign pointer pScore address of variable score
 
-    
+    cout << "Assigning %score to pScore\n";
+    cout << "&score is: " << &score << "\n"; //address of score variable
+    cout << "pScore is: " << pScore << "\n"; //address of stored in pointer
+    cout << "score is :" << score << "\n"; 
+    cout << "*pScore is: " << *pScore << "\n\n"; //value pointed to by pointer
 }
