@@ -8,7 +8,7 @@ Whether you’re tallying up the number of enemies killed or decreasing a player
 ## Adding, Subtracting, and Multiplying
 I use the built-in arithmetic operators for addition (the plus sign, +), subtraction (the minus sign, -), and multiplication (an asterisk, *). The results depicted in Figure 1.4 are just what you’d expect.
 
-Each arithmetic operator is part of an *expression*—something that evaluates to a single value. So, for example, the expression 7 þ 3 evaluates to 10, and that’s what gets sent to cout.
+Each arithmetic operator is part of an *expression*—something that evaluates to a single value. So, for example, the expression 7 + 3 evaluates to 10, and that’s what gets sent to cout.
 
 ## Understanding Integer and Floating Point Division
 The symbol for division is the forward slash (/), so that’s what I use in the next line of code. However, the output might surprise you. According to C++ (and that expensive gaming rig), 7 divided by 3 is 2. What’s going on? Well, the result of any arithmetic calculation involving only *integers* (numbers without fractional parts) is always another integer. And since 7 and 3 are both integers, the result must be an integer. The fractional part of the result is thrown away.
