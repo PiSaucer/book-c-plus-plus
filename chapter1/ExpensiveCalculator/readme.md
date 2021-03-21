@@ -1,0 +1,15 @@
+# ExpensiveCalculator
+
+[Documentation](docs/Chapter1/GameOver/)
+
+# Output
+```txt
+7 + 3 = 10
+7 - 3 = 4
+7 * 3 = 21
+7 / 3 = 2
+7.0 / 3.0 = 2.33333
+7 % 3 = 1
+7 + 3 * 5 = 22
+(7 + 3) * 5 = 50
+```
