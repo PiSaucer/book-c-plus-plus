@@ -1,7 +1,7 @@
 # Exercises
 
 1. What’s wrong with the following prototype?
-```
+```cpp
 int askNumber(int low = 1, int high);
 ```
 
