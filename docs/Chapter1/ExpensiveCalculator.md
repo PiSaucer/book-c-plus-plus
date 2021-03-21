@@ -16,9 +16,7 @@ The symbol for division is the forward slash (/), so that’s what I use in the 
 To get a result that includes a fractional part, at least one of the values needs to be a *floating point* (a number with a fractional part). I demonstrate this in the next line with the expression 7.0 / 3.0. This time the result is a more accurate 2.33333.
 
 ### Trap
-```txt
-You might notice that while the result of 7.0 / 3.0 (2.33333) includes a fractional part, it is still truncated. (The true result would stretch out 3s after the decimal point forever.) It’s important to know that computers generally store only a limited number of significant digits for floating point numbers. However, C++ offers categories of floating point numbers to meet the most demanding needs—even those of computationally intensive 3D games.
-```
+>You might notice that while the result of 7.0 / 3.0 (2.33333) includes a fractional part, it is still truncated. (The true result would stretch out 3s after the decimal point forever.) It’s important to know that computers generally store only a limited number of significant digits for floating point numbers. However, C++ offers categories of floating point numbers to meet the most demanding needs—even those of computationally intensive 3D games.
 
 ## Using the Modulus Operator
 In the next statement, I use an operator that might be unfamiliar to you—the modulus operator (%). The modulus operator returns the remainder of integer division. In this case, 7 % 3 produces the remainder of 7 / 3, which is 1.
