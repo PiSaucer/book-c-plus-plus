@@ -1,2 +1,0 @@
-TicTacToe.exe
-pause

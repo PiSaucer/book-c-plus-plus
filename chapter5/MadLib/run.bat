@@ -1,2 +1,0 @@
-MadLib.exe
-pause

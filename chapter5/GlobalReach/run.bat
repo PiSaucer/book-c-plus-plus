@@ -1,2 +1,0 @@
-GlobalReach.exe
-pause

@@ -33,3 +33,4 @@
 *.bat
 
 .vscode
+.DS_STORE

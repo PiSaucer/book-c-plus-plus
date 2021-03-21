@@ -1,2 +1,0 @@
-GiveMeNumber.exe
-pause

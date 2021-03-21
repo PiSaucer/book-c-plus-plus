@@ -1,2 +1,0 @@
-Swap.exe
-pause

@@ -1,2 +1,0 @@
-HighScores.exe
-pause

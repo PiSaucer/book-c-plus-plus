@@ -1,2 +1,0 @@
-WordJumble.exe
-pause

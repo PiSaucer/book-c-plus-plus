@@ -1,2 +1,0 @@
-InventoryReferencer.exe
-pause

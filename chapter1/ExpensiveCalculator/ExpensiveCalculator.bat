@@ -1,2 +1,0 @@
-ExpensiveCalculator.exe
-pause

@@ -1,2 +1,0 @@
-Pointing.exe
-pause

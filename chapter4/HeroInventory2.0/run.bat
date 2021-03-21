@@ -1,2 +1,0 @@
-HeroInventory.exe
-pause

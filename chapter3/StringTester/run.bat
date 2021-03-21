@@ -1,2 +1,0 @@
-StringTester.exe
-pause
