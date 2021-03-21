@@ -9,3 +9,5 @@
     - [GameOver 2.0](GameOver/GameOver2.0/)
     - [GameOver 3.0](GameOver/GameOver3.0/)
 - [Expensive Calculator](ExpensiveCalculator/)
+- [GameStats](GameStats/)
+    - [GameStats 1.0](GameStats/GameStats1.0/)
