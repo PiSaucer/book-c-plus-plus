@@ -5,7 +5,7 @@
 
 # Programs
 - [GameOver](GameOver/)
-    - [GameOver 1.0](GameOver/GameOver1.0.md)
-    - [GameOver 2.0](GameOver/GameOver2.0.md)
-    - [GameOver 3.0](GameOver/GameOver3.0.md)
-- [Expensive Calculator](ExpensiveCalculator.md)
+    - [GameOver 1.0](GameOver/GameOver1.0/)
+    - [GameOver 2.0](GameOver/GameOver2.0/)
+    - [GameOver 3.0](GameOver/GameOver3.0/)
+- [Expensive Calculator](ExpensiveCalculator/)
