@@ -1,4 +1,0 @@
-# GameOver
-```
-Game Over!
-```
