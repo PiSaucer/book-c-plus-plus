@@ -1,4 +1,4 @@
-# Readme
+# Documentation
 
 ## Free Online Verisons of the Book
 - [PDF](Beginning_Cpp_Through_Game_Programming.pdf)
@@ -14,3 +14,8 @@
 - [Chapter 3](Chapter3/)
 - [Chapter 4](Chapter4/)
 - [Chapter 5](Chapter5/)
+
+## Cheatsheet
+- [vscode Keyboard Shortcuts Windows](keyboard-shortcuts-linux.pdf)
+- [vscode Keyboard Shortcuts Linux](keyboard-shortcuts-vscode-windows.pdf)
+- [vscode Keyboard Shortcuts Mac](keyboard-shortcuts-macos.pdf)
