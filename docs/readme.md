@@ -16,6 +16,6 @@
 - [Chapter 5](Chapter5/)
 
 ## Cheatsheet
-- [vscode Keyboard Shortcuts Windows](keyboard-shortcuts-linux.pdf)
+- [vscode Keyboard Shortcuts Windows](keyboard-shortcuts-vscode-linux.pdf)
 - [vscode Keyboard Shortcuts Linux](keyboard-shortcuts-vscode-windows.pdf)
-- [vscode Keyboard Shortcuts Mac](keyboard-shortcuts-macos.pdf)
+- [vscode Keyboard Shortcuts Mac](keyboard-shortcuts-vscode-macos.pdf)
