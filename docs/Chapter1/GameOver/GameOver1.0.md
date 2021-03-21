@@ -79,19 +79,16 @@ Returning 0 from main() is a way to indicate that the program ended without a pr
 
 ### Trick
 > When you run the Game Over program, you might only see a console window appear and disappear just as quickly. That’s because ++ is so fast that it opens a console window, displays Game Over!, and closes the window all in a split second. However, in Windows, you can create a batch file that runs your console program and pauses, keeping the console window open so you can see the results of your program. Since the compiled program is named game_over.exe, you can simply create a batch file comprised of the two lines
-```bat
+```txt
    game_over.exe
    pause
 ```
-``` txt
 To create a batch file:
 
 1. Open a text editor like Notepad (not Word or WordPad).
-
 2. Type your text.
-
 3. Save the file with a .bat extension, such as game_over.bat.
-```
+
 > Finally, run the batch file by double-clicking its icon. You should see the results of the program since the batch file keeps the console window open.
 
 # Code
