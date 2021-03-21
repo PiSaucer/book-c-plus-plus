@@ -30,5 +30,6 @@
 *.exe
 *.out
 *.app
+*.bat
 
 .vscode
