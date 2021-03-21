@@ -4,7 +4,7 @@
 
 2. What's displayed by each line in the following code snippet? Explain each result.
 
-```
+```cpp
 cout << "Seven divided by three is " << 7 / 3 << endl;
 cout << "Seven divided by three is " << 7.0 / 3 << endl;
 cout << "Seven divided by three is " << 7.0 / 3.0 << endl;
