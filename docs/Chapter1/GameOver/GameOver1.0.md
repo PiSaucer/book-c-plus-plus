@@ -15,9 +15,7 @@ Comments are completely ignored by the compiler; they’re meant for humans. The
 You can create a comment using two forward slashes in a row (//). Anything after this on the rest of the physical line is considered part of the comment. This means you can also include a comment after a piece of ++ code, on the same line.
 
 ### Hint
-```txt
-You can also use what are called C-style comments, which can span multiple lines. All you have to do is start the comment with /* and end it with */. Everything in between the two markers is part of the comment.
-```
+> You can also use what are called C-style comments, which can span multiple lines. All you have to do is start the comment with /* and end it with */. Everything in between the two markers is part of the comment.
 
 ## Using Whitespace
 The next line in the program is a blank line. The compiler ignores blank lines. In fact, compilers ignore just about all *whitespace*—spaces, tabs, and newlines. Like comments, whitespace is just for us humans.
@@ -80,12 +78,12 @@ return 0;
 Returning 0 from main() is a way to indicate that the program ended without a problem. The operating system doesn’t have to do anything with the return value. In general, you can simply return 0 like I did here.
 
 ### Trick
-```txt
-When you run the Game Over program, you might only see a console window appear and disappear just as quickly. That’s because ++ is so fast that it opens a console window, displays Game Over!, and closes the window all in a split second. However, in Windows, you can create a batch file that runs your console program and pauses, keeping the console window open so you can see the results of your program. Since the compiled program is named game_over.exe, you can simply create a batch file comprised of the two lines
-
+> When you run the Game Over program, you might only see a console window appear and disappear just as quickly. That’s because ++ is so fast that it opens a console window, displays Game Over!, and closes the window all in a split second. However, in Windows, you can create a batch file that runs your console program and pauses, keeping the console window open so you can see the results of your program. Since the compiled program is named game_over.exe, you can simply create a batch file comprised of the two lines
+```bat
    game_over.exe
    pause
-
+```
+``` txt
 To create a batch file:
 
 1. Open a text editor like Notepad (not Word or WordPad).
@@ -93,9 +91,8 @@ To create a batch file:
 2. Type your text.
 
 3. Save the file with a .bat extension, such as game_over.bat.
-
-Finally, run the batch file by double-clicking its icon. You should see the results of the program since the batch file keeps the console window open.
 ```
+> Finally, run the batch file by double-clicking its icon. You should see the results of the program since the batch file keeps the console window open.
 
 # Code
 ```cpp
