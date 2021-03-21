@@ -13,6 +13,8 @@ I was given a book to learn c++. I thought to make github of the book of the cod
 
 My goal: Finish it over the 2020 Summer
 
+[Check out the documentation](docs/)
+
 # Copyright
 
 ```
