@@ -1,6 +1,6 @@
 # GameOver
 
-[Documentation](docs/Chapter1/GameOver/)
+[Documentation](../../docs/Chapter1/GameOver/)
 
 # Output
 ```txt
