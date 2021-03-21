@@ -4,7 +4,7 @@
 
 2. What's wrong with the following loop?
 
-```
+```cpp
 int x = 0;
 while (x)
 {
