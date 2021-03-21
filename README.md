@@ -3,6 +3,8 @@
 [![Run on Repl.it](https://repl.it/badge/github/PiSaucer/book-c-plus-plus)](https://repl.it/github/PiSaucer/book-c-plus-plus)
 [![c++](https://img.shields.io/badge/C++-Beginning%20C++%20Through%20Game%20Programming-blue.svg?style=flat&logo=c%2B%2B)](https://github.com/PiSaucer/book-c-plus-plus)
 
+[Check out the documentation](docs/)
+
 I was given a book to learn c++. I thought to make github of the book of the code whould be a great idea for people to use. The book is called, "Beginning C++ Through Game Programming, Third Edition" By Michael Daweson 
 
 [Amazon Link](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420)
@@ -10,10 +12,6 @@ I was given a book to learn c++. I thought to make github of the book of the cod
 [Amazon (4th Edition)](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1305109910/)
 
 [![cover](/docs/bookcover.jpg)](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420)
-
-My goal: Finish it over the 2020 Summer
-
-[Check out the documentation](docs/)
 
 # Copyright
 
