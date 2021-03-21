@@ -32,6 +32,16 @@
 *.app
 *.bat
 
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+# Mac
 .vscode
 .DS_STORE
 *~
