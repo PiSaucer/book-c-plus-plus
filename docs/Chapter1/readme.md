@@ -12,3 +12,4 @@
 - [GameStats](GameStats/)
     - [GameStats 1.0](GameStats/GameStats1.0/)
     - [GameStats 2.0](GameStats/GameStats2.0/)
+    - [GameStats 3.0](GameStats/GameStats3.0/)
