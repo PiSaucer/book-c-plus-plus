@@ -1,6 +1,5 @@
 # Beginning C++ Through Game Programming
 
-[![Run on Repl.it](https://repl.it/badge/github/PiSaucer/book-c-plus-plus)](https://repl.it/github/PiSaucer/book-c-plus-plus)
 [![c++](https://img.shields.io/badge/C++-Beginning%20C++%20Through%20Game%20Programming-blue.svg?style=flat&logo=c%2B%2B)](https://github.com/PiSaucer/book-c-plus-plus)
 
 [Check out the documentation](docs/)
