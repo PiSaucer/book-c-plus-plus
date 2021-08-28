@@ -1,3 +1,4 @@
+[Docs](../../) / [Chapter6](../)
 # Exercises
 
 1. Improve the Mad Lib game from Chapter 5 by using references to make

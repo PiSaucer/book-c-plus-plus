@@ -43,6 +43,12 @@
     - [Summary](Chapter5/Summary/)
     - Programs
         - WIP 
+- [Chapter 6](Chapter6/)
+    - [Exercises](Chapter6/Exercises/)
+    - [Questions](Chapter6/Questions/)
+    - [Summary](Chapter6/Summary/)
+    - Programs
+        - WIP
 
 ## Free Online Versions of the Book
 - [PDF](Beginning_Cpp_Through_Game_Programming.pdf)

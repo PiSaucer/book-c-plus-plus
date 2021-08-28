@@ -1,5 +1,5 @@
 [Docs](../)
-# Chapter 5
+# Chapter 6
 - [Exercises](Exercises/)
 - [Questions](Questions/)
 - [Summary](Summary/)
