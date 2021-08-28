@@ -1,4 +1,4 @@
-[Docs](../../) > [Chapter1](../)
+[Docs](../../) / [Chapter1](../)
 # GameOver
 - [GameOver 1.0](GameOver1.0/)
 - [GameOver 2.0](GameOver2.0/)
