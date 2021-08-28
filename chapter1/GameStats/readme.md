@@ -2,9 +2,7 @@
 
 [Documentation](../../../docs/Chapter1/GameStats/)
 
-# GameStats1.0
-
-[Documentation](../../../docs/Chapter1/GameStats/GameStats1.0/)
+# [GameStats1.0](../../../docs/Chapter1/GameStats/GameStats1.0/)
 
 ## Output
 ```txt
@@ -21,9 +19,7 @@ fuel: 10
 bonus: 10
 ```
 
-# GameStats2.0
-
-[Documentation](../../../docs/Chapter1/GameStats/GameStats2.0/)
+# [GameStats2.0](../../../docs/Chapter1/GameStats/GameStats2.0/)
 
 ## Output
 ```txt
@@ -39,9 +35,7 @@ score: 4294967295
 score: 0
 ```
 
-# GameStats3.0 
-
-[Documentation](../../../docs/Chapter1/GameStats/GameStats3.0/)
+# [GameStats3.0](../../../docs/Chapter1/GameStats/GameStats3.0/)
 
 ## Output
 ```txt
