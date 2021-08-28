@@ -1,4 +1,5 @@
+[Docs](../)
 # Chapter 3
-- [Exercises](Exercises.md)
-- [Questions](Questions.md)
-- [Summary](Summary.md)
+- [Exercises](Exercises/)
+- [Questions](Questions/)
+- [Summary](Summary/)

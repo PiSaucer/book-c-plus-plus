@@ -1,3 +1,4 @@
+[Docs](../../) / [Chapter1](../)
 # Exercises
 
 1. Create a list of six legal variable names — three good and three bad choices. Explain why each name falls into the good or bad category.

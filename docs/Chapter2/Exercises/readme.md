@@ -1,3 +1,4 @@
+[Docs](../../) / [Chapter2](../)
 # Exercises
 
 1. Rewrite the Menu Chooser program from this chapter using an enumeration to represent difficulty levels. The variable 'choice' will still be of type 'int'.

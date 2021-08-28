@@ -1,3 +1,4 @@
+[Docs](../../../) / [Chapter1](../../) / [GameStats](../)
 # Introducing the Game Stats Program
 
 The Game Stats program displays information that you might want to keep track of in a space shooter game, such as a player’s score, the number of enemies the player has destroyed, and whether the player has his shields up. The program uses a group of variables to accomplish all of this. Figure 1.5 illustrates the program.

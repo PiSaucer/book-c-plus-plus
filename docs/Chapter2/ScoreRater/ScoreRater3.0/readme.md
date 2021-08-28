@@ -1,3 +1,4 @@
+[Docs](../../../) / [Chapter2](../../) / [ScoreRater](../)
 # Introducing the Score Rater 3.0 Program
 
 The Score Rater 3.0 program also rates a score, which the user enters. But this time, the program uses a sequence of `if` statements with `else` clauses. Figure 2.4 shows the results of the program.

@@ -1,3 +1,4 @@
+[Docs](../../) / [Chapter1](../)
 # Introducing the Expensive Calculator Program
 
 Most serious computer gamers invest heavily in a bleeding-edge, high-powered gaming rig. This next program, Expensive Calculator, can turn that monster of a machine into a simple calculator. The program demonstrates built-in arithmetic operators. Figure 1.4 shows off the results.

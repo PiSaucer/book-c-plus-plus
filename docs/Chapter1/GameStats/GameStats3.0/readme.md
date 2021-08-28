@@ -1,3 +1,4 @@
+[Docs](../../../) / [Chapter1](../../) / [GameStats](../)
 # Introducing the Game Stats 3.0 Program
 The Game Stats 3.0 program uses constants to represent values. First the program calculates a player’s score, and then it calculates the upgrade cost of a unit in a strategy game. Figure 1.8 shows the results.
 

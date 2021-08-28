@@ -1,3 +1,4 @@
+[Docs](../../../) / [Chapter1](../../) / [GameOver](../)
 # Introducing the Game Over 3.0 Program
 Okay, there’s another way to accomplish what I did in Game Over 2.0: set up the file so that I don’t have to explicitly use the std:: prefix to access cout and endl. And that’s exactly what I’m going to show you in the Game Over 3.0 program, which displays the same text as its predecessors.
 

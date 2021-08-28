@@ -1,3 +1,4 @@
+[Docs](../../) / [Chapter5](../)
 # Questions and Answers
 
 Q: Why should I write functions?

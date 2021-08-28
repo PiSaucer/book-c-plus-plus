@@ -1,3 +1,4 @@
+[Docs](../../) / [Chapter1](../)
 # Introducing Lost Fortune
 
 The final project for this chapter, Lost Fortune, is a personalized adventure game in which the player enters a few pieces of information, which the computer uses to enhance a basic adventure story. Figure 1.9 shows a sample run.

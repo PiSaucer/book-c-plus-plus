@@ -1,3 +1,4 @@
+[Docs](../../../) / [Chapter2](../../) / [ScoreRater](../)
 # Introducing the Score Rater 2.0 Program
 
 The Score Rater 2.0 program also rates a score, which the user enters. But this time, the program uses an if statement with an else clause. Figures 2.2 and 2.3 show the two different messages that the program can display based on the score the user enters.

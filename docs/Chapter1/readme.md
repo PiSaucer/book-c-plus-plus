@@ -1,7 +1,8 @@
+[Docs](../)
 # Chapter 1
-- [Exercises](Exercises.md)
-- [Questions](Questions.md)
-- [Summary](Summary.md)
+- [Exercises](Exercises/)
+- [Questions](Questions/)
+- [Summary](Summary/)
 
 # Programs
 - [GameOver](GameOver/)

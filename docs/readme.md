@@ -10,9 +10,9 @@
 
 ## Chapters
 - [Chapter 1](Chapter1/)
-    - [Exercises](Chapter1/Exercises.md)
-    - [Questions](Chapter1/Questions.md)
-    - [Summary](Chapter1/Summary.md)
+    - [Exercises](Chapter1/Exercises/)
+    - [Questions](Chapter1/Questions/)
+    - [Summary](Chapter1/Summary/)
     - Programs 
         - [GameOver](Chapter1/GameOver/)
             - [GameOver 1.0](Chapter1/GameOver/GameOver1.0/)
@@ -25,30 +25,30 @@
             - [GameStats 3.0](Chapter1/GameStats/GameStats3.0/)
         - [LostFortune](Chapter1/LostFortune/)
 - [Chapter 2](Chapter2/)
-    - [Exercises](Chapter2/Exercises.md)
-    - [Questions](Chapter2/Questions.md)
-    - [Summary](Chapter2/Summary.md)
+    - [Exercises](Chapter2/Exercises/)
+    - [Questions](Chapter2/Questions/)
+    - [Summary](Chapter2/Summary/)
     - Programs 
         - [ScoreRater](Chapter2/ScoreRater/)
             - [ScoreRater 1.0](Chapter2/ScoreRater/ScoreRater1.0/)
             - [ScoreRater 2.0](Chapter2/ScoreRater/ScoreRater2.0/)
             - [ScoreRater 3.0](Chapter2/ScoreRater/ScoreRater3.0/)
 - [Chapter 3](Chapter3/)
-    - [Exercises](Chapter13/Exercises.md)
-    - [Questions](Chapter3/Questions.md)
-    - [Summary](Chapter3/Summary.md)
+    - [Exercises](Chapter13/Exercises/)
+    - [Questions](Chapter3/Questions/)
+    - [Summary](Chapter3/Summary/)
     - Programs
         - WIP 
 - [Chapter 4](Chapter4/)
-    - [Exercises](Chapter4/Exercises.md)
-    - [Questions](Chapter4/Questions.md)
-    - [Summary](Chapter4/Summary.md) 
+    - [Exercises](Chapter4/Exercises/)
+    - [Questions](Chapter4/Questions/)
+    - [Summary](Chapter4/Summary/) 
     - Programs
         - WIP
 - [Chapter 5](Chapter5/)
-    - [Exercises](Chapter5/Exercises.md)
-    - [Questions](Chapter5/Questions.md)
-    - [Summary](Chapter5/Summary.md)
+    - [Exercises](Chapter5/Exercises/)
+    - [Questions](Chapter5/Questions/)
+    - [Summary](Chapter5/Summary/)
     - Programs
         - WIP 
 
