@@ -15,7 +15,7 @@ You scored 500 or more. Nice.
 You scored 1000 or more. Impressive!
 ```
 
-## ScoreRater2.0
+## [ScoreRater2.0](../../docs/Chapter2/ScoreRater/ScoreRater2.0/)
 
 ### Score < 1000
 ```
@@ -29,7 +29,7 @@ Enter your score: 1001
 You scored 1000 or more. Impressive!
 ```
 
-## ScoreRater3.0
+## [ScoreRater3.0](../../docs/Chapter2/ScoreRater/ScoreRater3.0/)
 
 ### Score < 250
 ```
