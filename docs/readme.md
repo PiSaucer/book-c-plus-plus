@@ -10,12 +10,26 @@
 
 ## Chapters
 - [Chapter 1](Chapter1/)
+    - [GameOver](GameOver/)
+        - [GameOver 1.0](GameOver/GameOver1.0/)
+        - [GameOver 2.0](GameOver/GameOver2.0/)
+        - [GameOver 3.0](GameOver/GameOver3.0/)
+    - [Expensive Calculator](ExpensiveCalculator/)
+    - [GameStats](GameStats/)
+        - [GameStats 1.0](GameStats/GameStats1.0/)
+        - [GameStats 2.0](GameStats/GameStats2.0/)
+        - [GameStats 3.0](GameStats/GameStats3.0/)
+    - [LostFortune](LostFortune/) 
 - [Chapter 2](Chapter2/)
+    - [ScoreRater](ScoreRater/)
+        - [ScoreRater 1.0](ScoreRater/ScoreRater1.0/)
+        - [ScoreRater 2.0](ScoreRater/ScoreRater2.0/)
+        - [ScoreRater 3.0](ScoreRater/ScoreRater3.0/)
 - [Chapter 3](Chapter3/)
 - [Chapter 4](Chapter4/)
 - [Chapter 5](Chapter5/)
 
-## Cheatsheet
+## Cheatsheets
 - [vscode Keyboard Shortcuts Windows](keyboard-shortcuts-vscode-linux.pdf)
 - [vscode Keyboard Shortcuts Linux](keyboard-shortcuts-vscode-windows.pdf)
 - [vscode Keyboard Shortcuts Mac](keyboard-shortcuts-vscode-macos.pdf)

@@ -2,7 +2,7 @@
 
 [Documentation](../../docs/Chapter2/ScoreRater/)
 
-## ScoreRater1.0
+## [ScoreRater1.0](../../docs/Chapter2/ScoreRater/ScoreRater1.0/)
 ```
 This is always displayed.
 
