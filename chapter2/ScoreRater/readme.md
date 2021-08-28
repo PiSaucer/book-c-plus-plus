@@ -2,6 +2,8 @@
 
 [Documentation](../../docs/Chapter2/ScoreRater/)
 
+# Output
+
 ## [ScoreRater1.0](../../docs/Chapter2/ScoreRater/ScoreRater1.0/)
 ```txt
 This is always displayed.
