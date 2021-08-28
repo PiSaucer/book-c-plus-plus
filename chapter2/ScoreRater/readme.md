@@ -1,5 +1,7 @@
 # ScoreRater
 
+[Documentation](../../docs/Chapter2/ScoreRater/)
+
 ## ScoreRater1.0
 ```
 This is always displayed.
