@@ -33,7 +33,7 @@ I was given a book to learn c++. I thought to make github of the book of the cod
   <br>
   
   <a href="https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420">
-    <img src="/docs/bookcover.jpg" alt="Cover" width="404" height="500">
+    <img src="docs/bookcover.jpg" alt="Cover" width="404" height="500">
   </a>
 </div>
 
