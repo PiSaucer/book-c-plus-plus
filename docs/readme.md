@@ -31,6 +31,7 @@
         - [PlayAgain](Chapter2/PlayAgain/)
             - [PlayAgain 1.0](Chapter2/PlayAgain/PlayAgain1.0/)
             - [PlayAgain 2.0](Chapter2/PlayAgain/PlayAgain2.0/)
+        - [FinickyCounter](Chapter2/FinickyCounter) 
 - [Chapter 3 - For Loops, Strings, and Arrays: Word Jumble.](Chapter3/)
     - [Resources](Chapter3/#resources)
         - [Exercises](Chapter13/Exercises/)

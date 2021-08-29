@@ -26,3 +26,4 @@ So far, the programs you’ve seen have been linear—each statement executes, i
 - [PlayAgain](PlayAgain/)
     - [PlayAgain 1.0](PlayAgain/PlayAgain1.0/)
     - [PlayAgain 2.0](PlayAgain/PlayAgain2.0/)
+- [FinickyCounter](FinickyCounter/) 
