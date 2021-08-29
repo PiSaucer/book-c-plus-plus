@@ -25,6 +25,7 @@
             - [ScoreRater 1.0](Chapter2/ScoreRater/ScoreRater1.0/)
             - [ScoreRater 2.0](Chapter2/ScoreRater/ScoreRater2.0/)
             - [ScoreRater 3.0](Chapter2/ScoreRater/ScoreRater3.0/)
+        - [MenuChooser](Chapter2/MenuChooser/) 
 - [Chapter 3](Chapter3/)
     - [Exercises](Chapter13/Exercises/)
     - [Questions](Chapter3/Questions/)

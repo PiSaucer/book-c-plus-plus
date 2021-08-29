@@ -1,5 +1,9 @@
 # MenuChooser
 
+[Documentation](../../docs/Chapter2/MenuChooser/)
+
+# Output
+
 ## Easy
 ```
 Difficulty Levels
