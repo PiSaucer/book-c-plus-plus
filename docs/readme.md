@@ -2,11 +2,11 @@
 
 ## Chapters
 - [Chapter 1 - Types, Variables, and Standard I/O: Lost Fortune.](Chapter1/)
-    - Resources
+    - [Resources](Chapter1/#resources)
         - [Exercises](Chapter1/Exercises/)
         - [Questions](Chapter1/Questions/)
         - [Summary](Chapter1/Summary/)
-    - Programs 
+    - [Programs](Chapter1/#programs) 
         - [GameOver](Chapter1/GameOver/)
             - [GameOver 1.0](Chapter1/GameOver/GameOver1.0/)
             - [GameOver 2.0](Chapter1/GameOver/GameOver2.0/)
@@ -18,11 +18,11 @@
             - [GameStats 3.0](Chapter1/GameStats/GameStats3.0/)
         - [LostFortune](Chapter1/LostFortune/)
 - [Chapter 2 - Truth, Branching, and the Game Loop: Guess My Number.](Chapter2/)
-    - Resources
+    - [Resources](Chapter2/#resources)
         - [Exercises](Chapter2/Exercises/)
         - [Questions](Chapter2/Questions/)
         - [Summary](Chapter2/Summary/)
-    - Programs 
+    - [Programs](Chapter1/#programs) 
         - [ScoreRater](Chapter2/ScoreRater/)
             - [ScoreRater 1.0](Chapter2/ScoreRater/ScoreRater1.0/)
             - [ScoreRater 2.0](Chapter2/ScoreRater/ScoreRater2.0/)
@@ -32,32 +32,32 @@
             - [PlayAgain 1.0](Chapter2/PlayAgain/PlayAgain1.0/)
             - [PlayAgain 2.0](Chapter2/PlayAgain/PlayAgain2.0/)
 - [Chapter 3 - For Loops, Strings, and Arrays: Word Jumble.](Chapter3/)
-    - Resources
+    - [Resources](Chapter3/#resources)
         - [Exercises](Chapter13/Exercises/)
         - [Questions](Chapter3/Questions/)
         - [Summary](Chapter3/Summary/)
-    - Programs
+    - [Programs](Chapter1/#programs) 
         - WIP 
 - [Chapter 4 - The Standard Template Library: Hangman.](Chapter4/)
-    - Resources
+    - [Resources](Chapter4/#resources)
         - [Exercises](Chapter4/Exercises/)
         - [Questions](Chapter4/Questions/)
         - [Summary](Chapter4/Summary/) 
-    - Programs
+    - [Programs](Chapter1/#programs) 
         - WIP
 - [Chapter 5 - Functions: Mad Lib.](Chapter5/)
-    - Resources
+    - [Resources](Chapter5/#resources)
         - [Exercises](Chapter5/Exercises/)
         - [Questions](Chapter5/Questions/)
         - [Summary](Chapter5/Summary/)
-    - Programs
+    - [Programs](Chapter1/#programs) 
         - WIP 
 - [Chapter 6 - References: Tic-Tac-Toe.](Chapter6/)
-    - Resources
+    - [Resources](Chapter6/#resources)
         - [Exercises](Chapter6/Exercises/)
         - [Questions](Chapter6/Questions/)
         - [Summary](Chapter6/Summary/)
-    - Programs
+    - [Programs](Chapter1/#programs) 
         - WIP
 
 ## Appendix
