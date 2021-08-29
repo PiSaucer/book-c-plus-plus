@@ -19,7 +19,7 @@ while (test == 10)
     cout << tes;
 }
 ```
-> In this case, the loop is entered because `test` is 10. But because `test` never changes, the loop will never stop. As a result, the user will have to kill the running program to end it. The moreal of this story? Make sure that the expression of a loop can eventually become `false` or that there's another way for the loop to end, such as described in the following section, "[Using break and continue Statement.](#Using-breaks-and-continue-statements)"
+> In this case, the loop is entered because `test` is 10. But because `test` never changes, the loop will never stop. As a result, the user will have to kill the running program to end it. The moreal of this story? Make sure that the expression of a loop can eventually become `false` or that there's another way for the loop to end, such as described in the following section, "[Using break and continue Statement.](#using-breaks-and-continue-statements)"
 
 ## Using breaks and continue Statements
 
