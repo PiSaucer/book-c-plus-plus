@@ -9,7 +9,7 @@ Whether you’re tallying up the number of enemies killed or decreasing a player
 ## Adding, Subtracting, and Multiplying
 I use the built-in arithmetic operators for addition (the plus sign, +), subtraction (the minus sign, -), and multiplication (an asterisk, *). The results depicted in Figure 1.4 are just what you’d expect.
 
-Each arithmetic operator is part of an *expression*—something that evaluates to a single value. So, for example, the expression 7 + 3 evaluates to 10, and that’s what gets sent to cout.
+Each arithmetic operator is part of an *expression*—something that evaluates to a single value. So, for example, the expression 7 + 3 evaluates to 10, and that’s what gets sent to `cout`.
 
 ## Understanding Integer and Floating Point Division
 The symbol for division is the forward slash (/), so that’s what I use in the next line of code. However, the output might surprise you. According to C++ (and that expensive gaming rig), 7 divided by 3 is 2. What’s going on? Well, the result of any arithmetic calculation involving only *integers* (numbers without fractional parts) is always another integer. And since 7 and 3 are both integers, the result must be an integer. The fractional part of the result is thrown away.
@@ -28,6 +28,9 @@ Just as in algebra, arithmetic expressions in C++ are evaluated from left to rig
 The next line of code provides an example to help drive this home. Because multiplication has higher precedence than addition, you calculate the results of the multiplication first. So the expression 7 + 3 * 5 is equivalent to 7 + 15, which evaluates to 22.
 
 If you want an operation with lower precedence to occur first, you can use parentheses, which have higher precedence than any arithmetic operator. So in the next statement, the expression (7 + 3) * 5 is equivalent to 10 * 5, which evaluates to 50.
+
+### Hint
+> For a list of C++ operators and their precedence levels, see Appendix B.
 
 # Code
 ```cpp

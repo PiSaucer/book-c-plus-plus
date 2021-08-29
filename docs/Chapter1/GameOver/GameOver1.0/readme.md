@@ -30,7 +30,7 @@ The next line in the program is a preprocessor directive. You know this because 
 ```
 The *preprocessor* runs before the compiler does its thing and substitutes text based on various directives. In this case, the line involves the #include directive, which tells the preprocessor to include the contents of another file.
 
-I include the file iostream, which is part of the standard library, because it contains code to help me display output. I surround the filename with less than (<) and greater than (>) characters to tell the compiler to find the file where it keeps all the files that came with the compiler. A file that you include in your programs like this is called a *header file*.
+I include the file `iostream`, which is part of the standard library, because it contains code to help me display output. I surround the filename with less than (<) and greater than (>) characters to tell the compiler to find the file where it keeps all the files that came with the compiler. A file that you include in your programs like this is called a *header file*.
 
 ## Defining the main() Function
 The next non-blank line is the header of a function called main().
@@ -58,13 +58,13 @@ std::cout << "Game Over!" << std::endl;
 ```
 "Game Over!" is a *string*—a series of printable characters. Technically, it’s a *string literal*, meaning it’s literally the characters between the quotes.
 
-cout is an object, defined in the file iostream, that’s used to send data to the standard output stream. In most programs (including this one), the standard output stream simply means the console window on the computer screen.
+`cout` is an object, defined in the file `iostream`, that’s used to send data to the standard output stream. In most programs (including this one), the standard output stream simply means the console window on the computer screen.
 
-I use the *output operator* (<<) to send the string to cout. You can think of the output operator like a funnel; it takes whatever’s on the open side and funnels it to the pointy side. So the string is funneled to the standard output—the screen.
+I use the *output operator* (<<) to send the string to `cout`. You can think of the output operator like a funnel; it takes whatever’s on the open side and funnels it to the pointy side. So the string is funneled to the standard output—the screen.
 
-I use std to prefix cout to tell the compiler that I mean cout from the standard library. std is a *namespace*. You can think of a namespace like an area code of a phone number—it identifies the group to which something belongs. You prefix a namespace using the *scope resolution operator* (::).
+I use `std` to prefix `cout` to tell the compiler that I mean `cout` from the standard library. `std` is a *namespace*. You can think of a namespace like an area code of a phone number—it identifies the group to which something belongs. You prefix a namespace using the *scope resolution operator* (::).
 
-Finally, I send std::endl to the standard output. endl is defined in iostream and is also an object in the std namespace. Sending endl to the standard output acts like pressing the Enter key in the console window. In fact, if I were to send another string to the console window, it would appear on the next line.
+Finally, I send `std::endl` to the standard output. `endl` is defined in `iostream` and is also an object in the std namespace. Sending `endl` to the standard output acts like pressing the Enter key in the console window. In fact, if I were to send another string to the console window, it would appear on the next line.
 
 I understand this might be a lot to take in, so check out Figure 1.3 for a visual representation of the relationship between all of the elements I’ve just described.
 
@@ -76,10 +76,10 @@ The last statement in the function returns 0 to the operating system.
 ```cpp
 return 0;
 ```
-Returning 0 from main() is a way to indicate that the program ended without a problem. The operating system doesn’t have to do anything with the return value. In general, you can simply return 0 like I did here.
+Returning 0 from `main()` is a way to indicate that the program ended without a problem. The operating system doesn’t have to do anything with the return value. In general, you can simply return 0 like I did here.
 
 ### Trick
-> When you run the Game Over program, you might only see a console window appear and disappear just as quickly. That’s because ++ is so fast that it opens a console window, displays Game Over!, and closes the window all in a split second. However, in Windows, you can create a batch file that runs your console program and pauses, keeping the console window open so you can see the results of your program. Since the compiled program is named game_over.exe, you can simply create a batch file comprised of the two lines
+> When you run the Game Over program, you might only see a console window appear and disappear just as quickly. That’s because ++ is so fast that it opens a console window, displays `Game Over!`, and closes the window all in a split second. However, in Windows, you can create a batch file that runs your console program and pauses, keeping the console window open so you can see the results of your program. Since the compiled program is named `game_over.exe`, you can simply create a batch file comprised of the two lines
 ```txt
    game_over.exe
    pause

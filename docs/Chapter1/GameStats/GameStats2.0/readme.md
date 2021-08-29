@@ -17,8 +17,8 @@ After I create a variable to hold the player’s score and display it, I alter t
 score = score + 100;
 ```
 
-This assignment statement says to take the current value of score, add 100, and
-assign the result back to score. In effect, the line increases the value of score by 100.
+This assignment statement says to take the current value of `score`, add 100, and
+assign the result back to `score`. In effect, the line increases the value of `score` by 100.
 
 ## Using Combined Assignment Operators
 
@@ -44,7 +44,7 @@ Table 1.2 - Combined Assignment Operators
 
 ## Using Increment and Decrement Operators
 
-Next, I use the *increment operator* (++) which increases the value of a variable by one. I use the operator to increase the value of lives twice. First I use it in the following line:
+Next, I use the *increment operator* (++) which increases the value of a variable by one. I use the operator to increase the value of `lives` twice. First I use it in the following line:
 
 ```cpp
 ++lives;
@@ -56,7 +56,7 @@ Then I use it again in the following line:
 lives++;
 ```
 
-Each line has the same net effect; it increments lives from 3 to 4.
+Each line has the same net effect; it increments `lives` from 3 to 4.
 
 As you can see, you can place the operator before or after the variable you’re incrementing. When you place the operator before the variable, the operator is called the *prefix increment operator*; when you place it after the variable, it’s called the *postfix increment operator*.
 
@@ -68,21 +68,21 @@ To demonstrate this important difference, I perform a calculation that would be 
 int bonus = ++lives * 10;
 ```
 
-The prefix increment operator increments a variable *before* the evaluation of a larger expression involving the variable. ++lives * 10 is evaluated by first incrementing lives, and then multiplying that result by 10. Therefore, the code is equivalent to 4 * 10, which is 40, of course. This means that now lives is 4 and bonus is 40.
+The prefix increment operator increments a variable *before* the evaluation of a larger expression involving the variable. ++lives * 10 is evaluated by first incrementing `lives`, and then multiplying that result by 10. Therefore, the code is equivalent to 4 * 10, which is 40, of course. This means that now `lives` is 4 and `bonus` is 40.
 
-After setting lives back to 3, I calculate bonus again, this time using the postfix increment operator.
+After setting `lives` back to 3, I calculate `bonus` again, this time using the postfix increment operator.
 
 ```cpp
 bonus = lives++ * 10;
 ```
 
-The postfix increment operator increments a variable *after* the evaluation of a larger expression involving the variable. lives++ * 10 is evaluated by multi- plying the current value of lives by 10. Therefore, the code is equivalent to 3 * 10, which is 30, of course. Then, after this calculation, lives is incremented. After the line is executed, lives is 4 and bonus is 30.
+The postfix increment operator increments a variable *after* the evaluation of a larger expression involving the variable. `lives++` * 10 is evaluated by multi- plying the current value of `lives` by 10. Therefore, the code is equivalent to 3 * 10, which is 30, of course. Then, after this calculation, `lives` is incremented. After the line is executed, `lives` is 4 and `bonus` is 30.
 
 C++ also defines the *decrement operator*, –. It works just like the increment operator, except it decrements a variable. It comes in the two flavors (prefix and postfix) as well.
 
 ## Dealing with Integer Wrap Around
 
-What happens when you increase an integer variable beyond its maximum value? It turns out you don’t generate an error. Instead, the value “wraps around” to the type’s minimum value. Next up, I demonstrate this phenomenon. First I assign score the largest value it can hold.
+What happens when you increase an integer variable beyond its maximum value? It turns out you don’t generate an error. Instead, the value “wraps around” to the type’s minimum value. Next up, I demonstrate this phenomenon. First I assign `score` the largest value it can hold.
 
 ```cpp
 score = 4294967295;
@@ -94,7 +94,7 @@ Then I increment the variable.
 ++score;
 ```
 
-As a result, score becomes 0 because the value wrapped around, much like a car odometer does when it goes beyond its maximum value (see Figure 1.7).
+As a result, `score` becomes 0 because the value wrapped around, much like a car odometer does when it goes beyond its maximum value (see Figure 1.7).
 
 Decrementing an integer variable beyond its minimum value “wraps it around” to its maximum.
 

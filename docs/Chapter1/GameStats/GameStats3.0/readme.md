@@ -4,13 +4,13 @@ The Game Stats 3.0 program uses constants to represent values. First the program
 
 ## Working with Constants
 
-A *constant* is an unchangeable value that you name. Constants are useful if you have an unchanging value that comes up frequently in your program. For example, if you were writing a space shooter in which each alien blasted out of the sky is worth 150 points, you could define a constant named ALIEN_POINTS that is equal to 150. Then, any time you need the value of an alien, you could use ALIEN_POINTS instead of the literal 150.
+A *constant* is an unchangeable value that you name. Constants are useful if you have an unchanging value that comes up frequently in your program. For example, if you were writing a space shooter in which each alien blasted out of the sky is worth 150 points, you could define a constant named `ALIEN_POINTS` that is equal to 150. Then, any time you need the value of an alien, you could use `ALIEN_POINTS` instead of the literal 150.
 
-Constants provide two important benefits. First, they make programs clearer. As soon as you see ALIEN_POINTS, you know what it means. If you were to look at some code and see 150, you might not know what the value represents. Second, constants make changes easy. For example, suppose you do some playtesting with your game and you decide that each alien should really be worth 250 points. With constants, all you’d have to do is change the initialization of ALIEN_POINTS in your program. Without constants, you’d have to hunt down every occurrence of 150 and change it to 250.
+Constants provide two important benefits. First, they make programs clearer. As soon as you see `ALIEN_POINTS`, you know what it means. If you were to look at some code and see 150, you might not know what the value represents. Second, constants make changes easy. For example, suppose you do some playtesting with your game and you decide that each alien should really be worth 250 points. With constants, all you’d have to do is change the initialization of `ALIEN_POINTS` in your program. Without constants, you’d have to hunt down every occurrence of 150 and change it to 250.
 
 ## Using Constants
 
-I define a constant, ALIEN_POINTS, to represent the point value of an alien.
+I define a constant, `ALIEN_POINTS`, to represent the point value of an alien.
 
 ```cpp
 const int ALIEN_POINTS = 150;
@@ -31,13 +31,13 @@ I calculate a player’s score by multiplying the number of aliens killed by the
 
 ## Using Enumerations
 
-An *enumeration* is a set of unsigned int constants, called enumerators. Usually the enumerators are related and have a particular order. Here’s an example of an enumeration:
+An *enumeration* is a set of `unsigned int` constants, called *enumerators*. Usually the enumerators are related and have a particular order. Here’s an example of an enumeration:
 
 ```cpp
 enum difficulty {NOVICE, EASY, NORMAL, HARD, UNBEATABLE};
 ```
 
-This defines an enumeration named difficulty. By default, the value of enumerators begins at zero and increases by one. So NOVICE is 0, EASY is 1, NORMAL is 2, HARD is 3, and UNBEATABLE is 4. To define an enumeration of your own, use the keyword enum followed by an identifier, followed by a list of enumerators between curly braces.
+This defines an enumeration named `difficulty`. By default, the value of enumerators begins at zero and increases by one. So `NOVICE` is 0, `EASY` is 1, `NORMAL` is 2, HARD is 3, and `UNBEATABLE` is 4. To define an enumeration of your own, use the keyword `enum` followed by an identifier, followed by a list of enumerators between curly braces.
 
 Next I create a variable of this new enumeration type.
 
@@ -45,7 +45,7 @@ Next I create a variable of this new enumeration type.
 difficulty myDifficulty = EASY;
 ```
 
-The variable myDifficulty is set to EASY (which is equal to 1). myDifficulty is of type difficulty, so it can only hold one of the values defined in the enumeration. That means myDifficulty can only be assigned NOVICE, EASY, NORMAL, HARD, UNBEATABLE, 0, 1, 2, 3, or 4.
+The variable `myDifficulty` is set to `EASY` (which is equal to 1). `myDifficulty` is of type `difficulty`, so it can only hold one of the values defined in the enumeration. That means `myDifficulty` can only be assigned `NOVICE`, `EASY`, `NORMAL`, `HARD`, `UNBEATABLE`, 0, 1, 2, 3, or 4.
 
 Next I define another enumeration.
 
@@ -53,7 +53,7 @@ Next I define another enumeration.
 enum shipCost {FIGHTER_COST = 25, BOMBER_COST, CRUISER_COST = 50};
 ```
 
-This line of code defines the enumeration shipCost, which represents the cost in Resource Points for three kinds of ships in a strategy game. In it, I assign specific integer values to some of the enumerators. The numbers represent the Resource Point value of each ship. You can assign values to the enumerators if you want. Any enumerators that are not assigned values get the value of the previous enumerator plus one. Because I didn’t assign a value to BOMBER_COST, it’s initialized to 26.
+This line of code defines the enumeration `shipCost`, which represents the cost in Resource Points for three kinds of ships in a strategy game. In it, I assign specific integer values to some of the enumerators. The numbers represent the Resource Point value of each ship. You can assign values to the enumerators if you want. Any enumerators that are not assigned values get the value of the previous enumerator plus one. Because I didn’t assign a value to `BOMBER_COST`, it’s initialized to 26.
 
 Next I define a variable of this new enumeration type.
 
