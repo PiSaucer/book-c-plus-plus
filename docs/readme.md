@@ -55,6 +55,7 @@
         - WIP
 
 ## Free Online Versions of the Book
+- [Docs](#)
 - [PDF](Beginning_Cpp_Through_Game_Programming.pdf)
 - [DOCX](Beginning_Cpp_Through_Game_Programming.docx)
 - [TXT](Beginning_Cpp_Through_Game_Programming.txt)
