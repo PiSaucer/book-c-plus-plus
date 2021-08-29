@@ -1,16 +1,41 @@
-# Beginning C++ Through Game Programming
+<div align="center" style="display: block; margin-left: auto; margin-right: auto;">
+  
+  <h1>Beginning C++ Through Game Programming</h1>
+  
+  <a href="https://github.com/PiSaucer/book-c-plus-plus">
+    <img src="https://img.shields.io/badge/C++-Beginning%20C++%20Through%20Game%20Programming-blue.svg?style=flat&logo=c%2B%2B" alt="C++" width="311" height="20">
+  </a>
+  
+  <a href="https://github.com/PiSaucer/book-c-plus-plus">
+    <img src="https://tokei.rs/b1/github/PiSaucer/book-c-plus-plus" alt="Lines of Code" width="115" height="20">
+  </a>
+  
+  <a href="http://unlicense.org/">
+    <img src="https://img.shields.io/badge/license-Unlicense-blue.svg" alt="Unlicense" width="110" height="20">
+  </a>
+  
+  <br>
+  <br>
+  <a href="docs/">Check out the documentation</a>
+  <br>
+  <br>
+  
+</div>
 
-[![c++](https://img.shields.io/badge/C++-Beginning%20C++%20Through%20Game%20Programming-blue.svg?style=flat&logo=c%2B%2B)](https://github.com/PiSaucer/book-c-plus-plus)
-
-[Check out the documentation](docs/)
 
 I was given a book to learn c++. I thought to make github of the book of the code whould be a great idea for people to use. The book is called, "Beginning C++ Through Game Programming, Third Edition" By Michael Daweson 
 
-[Amazon Link](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420)
-
-[Amazon (4th Edition)](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1305109910/)
-
-[![cover](/docs/bookcover.jpg)](https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420)
+<div align="center" style="display: block; margin-left: auto; margin-right: auto;">
+  <a href="https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420" rel="nofollow" style="margin-right: 10px;">Amazon Link</a>
+  <a href="https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1305109910/" rel="nofollow" style="margin-left: 10px;">Amazon (4th Edition)</a>
+  
+  <br>
+  <br>
+  
+  <a href="https://www.amazon.com/Beginning-C-Through-Game-Programming/dp/1435457420">
+    <img src="docs/bookcover.jpg" alt="Cover" width="404" height="500">
+  </a>
+</div>
 
 # Copyright
 
