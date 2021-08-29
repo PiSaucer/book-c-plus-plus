@@ -1,6 +1,6 @@
 # ScoreRater2.0
 
-[Documentation](../../docs/Chapter2/ScoreRater/ScoreRater2.0/)
+[Documentation](../../../docs/Chapter2/ScoreRater/ScoreRater2.0/)
 
 # Output
 
