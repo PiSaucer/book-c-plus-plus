@@ -32,7 +32,7 @@ The next line of code provides an example to help drive this home. Because multi
 If you want an operation with lower precedence to occur first, you can use parentheses, which have higher precedence than any arithmetic operator. So in the next statement, the expression (7 + 3) * 5 is equivalent to 10 * 5, which evaluates to 50.
 
 ### Hint
-> For a list of C++ operators and their precedence levels, see Appendix B.
+> For a list of C++ operators and their precedence levels, see [Appendix B](../../Appendix/AppendixB/).
 
 # Code
 ```cpp

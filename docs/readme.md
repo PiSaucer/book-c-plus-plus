@@ -54,6 +54,10 @@
     - Programs
         - WIP
 
+## Appendix
+- Appendix A
+- [Appendix B - Operator Precedence](Appendix/AppendixB/)
+
 ## Free Online Versions of the Book
 - [Docs](#)
 - [PDF](Beginning_Cpp_Through_Game_Programming.pdf)
