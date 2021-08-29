@@ -1,5 +1,5 @@
 [Docs](../../) / [Apendix](../)
-# AppendixB - Operator Precedence
+# Appendix B - Operator Precedence
 
 C++ Operator Precedence
 
