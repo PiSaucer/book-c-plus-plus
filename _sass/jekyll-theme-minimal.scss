@@ -3,7 +3,9 @@
 
 body {
   background-color: #fff;
-  padding:50px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  padding: 125px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
   font-weight:400;
@@ -238,8 +240,8 @@ footer {
 
   header ul {
     position:absolute;
-    right:50px;
-    top:52px;
+    right: 50px;
+    top: 52px;
   }
 
 @media print, screen and (max-width: 720px) {
