@@ -55,7 +55,7 @@
         - WIP
 
 ## Appendix
-- Appendix A
+- [Appendix A - Creating You First C++ Program](Appendix/AppendixA/)
 - [Appendix B - Operator Precedence](Appendix/AppendixB/)
 
 ## Free Online Versions of the Book
