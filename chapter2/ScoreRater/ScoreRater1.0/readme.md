@@ -1,6 +1,6 @@
 # ScoreRater1.0
 
-[Documentation](../../docs/Chapter2/ScoreRater/ScoreRater1.0/)
+[Documentation](../../../docs/Chapter2/ScoreRater/ScoreRater1.0/)
 
 # Output
 ```txt
