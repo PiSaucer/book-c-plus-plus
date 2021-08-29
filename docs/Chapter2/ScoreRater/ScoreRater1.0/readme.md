@@ -3,13 +3,7 @@
 
 ![ScreenShot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_073.gif)
 
-So far, the programs you’ve seen have been linear—each statement executes, in order, from top to bottom. However, to create interesting games, you need to write programs that execute (or skip) sections of code based on some condition. That’s the main topic of this chapter. Specifically, you’ll learn to:
-
-- Understand truth (as C++ defines it)
-- Use `if` statements to branch to sections of code
-- Use `switch` statements to select a section of code to execute
-- Use `while` and `do` loops to repeat sections of code
-- Generate random numbers
+The Score Rater program comments on a player’s score using an `if` statement.
 
 ## Understanding Truth
 
