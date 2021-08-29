@@ -21,6 +21,8 @@ fuel: 10
 bonus: 10
 ```
 
+![ScreenShoot](../../web/Beginning_Cpp_Through_Game_Programming/Image_046.gif)
+
 # [GameStats2.0](GameStats2.0/)
 
 ## Output
@@ -37,6 +39,8 @@ score: 4294967295
 score: 0
 ```
 
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_058.gif)
+
 # [GameStats3.0](GameStats3.0/)
 
 ## Output
@@ -45,3 +49,5 @@ score: 1500
 
 To upgrade my ship to a Cruiser will cost 24 Resource Points.
 ```
+
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_064.gif)

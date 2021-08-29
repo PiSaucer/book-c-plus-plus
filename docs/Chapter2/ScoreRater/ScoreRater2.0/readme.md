@@ -1,6 +1,8 @@
 [Docs](../../../) / [Chapter2](../../) / [ScoreRater](../)
 # Introducing the Score Rater 2.0 Program
 
+![ScreenShot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_080.gif)
+
 The Score Rater 2.0 program also rates a score, which the user enters. But this time, the program uses an if statement with an else clause. Figures 2.2 and 2.3 show the two different messages that the program can display based on the score the user enters.
 
 ## Creating Two Ways to Branch

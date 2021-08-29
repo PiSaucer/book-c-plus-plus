@@ -1,15 +1,18 @@
 [Docs](../../../) / [Chapter1](../../) / [GameOver](../)
 # Introducing the Game Over Program
+
+![ScreenShot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_030.gif)
+
 The classic first task a programmer tackles in a new language is the Hello World program, which displays Hello World on the screen. The Game Over program puts a gaming twist on the classic and displays Game Over! instead. Figure 1.2 shows the program in action.
 
 ## Writing Your First C++ Program
-Okay, enough theory. It’s time to get down to the nitty-gritty and write your first ++ program. Although it is simple, the following program shows you the basic anatomy of a program. It also demonstrates how to display text in a console window.
+Okay, enough theory. It’s time to get down to the nitty-gritty and write your first C++ program. Although it is simple, the following program shows you the basic anatomy of a program. It also demonstrates how to display text in a console window.
 
 ## Commenting Code
 The first two lines of the program are comments.
 ```cpp
 // Game Over
-// A first ++ program
+// A first C++ program
 ```
 Comments are completely ignored by the compiler; they’re meant for humans. They can help other programmers understand your intentions. But comments can also help you. They can remind you how you accomplished something that might not be clear at first glance.
 
@@ -80,7 +83,7 @@ Returning 0 from `main()` is a way to indicate that the program ended without a 
 
 ### Trick
 > When you run the Game Over program, you might only see a console window appear and disappear just as quickly. That’s because ++ is so fast that it opens a console window, displays `Game Over!`, and closes the window all in a split second. However, in Windows, you can create a batch file that runs your console program and pauses, keeping the console window open so you can see the results of your program. Since the compiled program is named `game_over.exe`, you can simply create a batch file comprised of the two lines
-```txt
+```bat
    game_over.exe
    pause
 ```

@@ -1,6 +1,8 @@
 [Docs](../../../) / [Chapter1](../../) / [GameStats](../)
 # Introducing the Game Stats 2.0 Program
 
+![ScreenShot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_058.gif)
+
 The Game Stats 2.0 program manipulates variables that represent game stats and displays the results. Figure 1.6 shows the program in action.
 
 ## Performing Arithmetic Operations with Variables

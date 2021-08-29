@@ -1,5 +1,8 @@
 [Docs](../)
-# Chapter 1
+# Chapter 1 - Types, Variables, and Standard I/O: Lost Fortune.
+
+You’ll be introduced to the fundamentals of C++, the standard language of the game industry. You’ll learn to display output in a console window, perform arithmetic computations, use variables, and get player input from the keyboard.
+
 - [Exercises](Exercises/)
 - [Questions](Questions/)
 - [Summary](Summary/)

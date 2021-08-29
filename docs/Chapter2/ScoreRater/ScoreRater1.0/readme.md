@@ -1,6 +1,8 @@
 [Docs](../../../) / [Chapter2](../../) / [ScoreRater](../)
 # Introducing the Score Rater Program
 
+![ScreenShot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_073.gif)
+
 So far, the programs you’ve seen have been linear—each statement executes, in order, from top to bottom. However, to create interesting games, you need to write programs that execute (or skip) sections of code based on some condition. That’s the main topic of this chapter. Specifically, you’ll learn to:
 
 - Understand truth (as C++ defines it)

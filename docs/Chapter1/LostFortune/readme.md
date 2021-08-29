@@ -1,6 +1,9 @@
 [Docs](../../) / [Chapter1](../)
 # Introducing Lost Fortune
 
+
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_067.gif)
+
 The final project for this chapter, Lost Fortune, is a personalized adventure game in which the player enters a few pieces of information, which the computer uses to enhance a basic adventure story. Figure 1.9 shows a sample run.
 
 I include the file `string`, part of the standard library, so I can use a `string` object to access a string through a variable. There’s a lot more to `string` objects, but I’m going to keep you in suspense. You’ll learn more about them in Chapter 3, “For Loops, Strings, and Arrays: Word Jumble.”

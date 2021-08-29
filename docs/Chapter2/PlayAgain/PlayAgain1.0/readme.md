@@ -1,6 +1,8 @@
 [Docs](../../../) / [Chapter2](../../) / [PlayAgain](../)
 # Introducing the Play Again Program
 
+![ScreenShot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_092.gif)
+
 The Play Again program simulates the play of an exciting game. (Okay, by "simulates the play of an exciting game," I mean the program displays the message "**Played an excited game**".) Then the program asks the user if he wants to play again. The user continues to play as long as he enters `y`. The program accomplishes this repetition using a `while` loop.
 
 ## Looping with a while Loop

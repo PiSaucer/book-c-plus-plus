@@ -8,3 +8,5 @@
 ```txt
 Game Over!
 ```
+
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_030.gif)

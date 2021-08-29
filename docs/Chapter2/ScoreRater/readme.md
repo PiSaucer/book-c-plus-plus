@@ -19,6 +19,8 @@ You scored 500 or more. Nice.
 You scored 1000 or more. Impressive!
 ```
 
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_073.gif)
+
 ## [ScoreRater2.0](ScoreRater2.0/)
 
 ### Score < 1000
@@ -32,6 +34,8 @@ You scored less than 1000.
 Enter your score: 1001
 You scored 1000 or more. Impressive!
 ```
+
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_080.gif)
 
 ## [ScoreRater3.0](ScoreRater3.0/)
 
@@ -58,3 +62,5 @@ You scored 500 or more. Nice.
 Enter your score: 1001
 You scored 1000 or more. Impressive!
 ```
+
+![Screenshot](../../web/Beginning_Cpp_Through_Game_Programming/Image_082.gif)

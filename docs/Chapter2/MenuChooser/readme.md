@@ -1,6 +1,8 @@
 [Docs](../../) / [Chapter2](../)
 # Introducing the Menu Chooser Program
 
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_089.gif)
+
 The Menu Choose Program presents the user with a menu that lists three difficulty levels and asks him to make a choice. If the user enters a number that corresponds to a listed choice, then he is shown message confirming the choice. If the the user makes some other choice, he is told that choice is invalid.
 
 ## Creating Multiple Ways to Branch

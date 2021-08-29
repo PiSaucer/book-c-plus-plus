@@ -1,6 +1,8 @@
 [Docs](../../../) / [Chapter2](../../) / [PlayAgain](../)
 # Introducing the Play Again 2.0 Program
 
+![ScreenShot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_092.gif)
+
 The Play Again 2.0 program looks exactly the same to the user as the original Play Again program. Play Again 2.0, likes its predecessor, simulates the play of an excited game by displaying the message "**Played an exciting game**" and asking the user whether he wants to play again. The user continues to play long as he enter `y`. This time, though, the program accomplishes the repetition using a `do` loop.
 
 ## Looping with a do loop

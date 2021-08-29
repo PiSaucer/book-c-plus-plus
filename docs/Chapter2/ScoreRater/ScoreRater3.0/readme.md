@@ -1,6 +1,8 @@
 [Docs](../../../) / [Chapter2](../../) / [ScoreRater](../)
 # Introducing the Score Rater 3.0 Program
 
+![Screenshot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_082.gif)
+
 The Score Rater 3.0 program also rates a score, which the user enters. But this time, the program uses a sequence of `if` statements with `else` clauses. Figure 2.4 shows the results of the program.
 
 ## Creating a Sequence of if Statements with else Clauses

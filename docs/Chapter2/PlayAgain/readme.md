@@ -14,3 +14,5 @@ Do you want to play again? (y/n): n
 
 Okay, bye.
 ```
+
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_092.gif)
