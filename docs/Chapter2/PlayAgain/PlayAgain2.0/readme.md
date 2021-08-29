@@ -46,7 +46,7 @@ int main() {
 }
 ```
 
-# Ouput
+# Output
 ```txt
 **Played an exciting game**
 Do you want to play again? (y/n): y
