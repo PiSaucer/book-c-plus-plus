@@ -1,2 +1,0 @@
-# ScoreRater2.0
-

@@ -1,6 +1,6 @@
 # TicTacToe
 
-```text
+```
 Welcome to the ultimate manΓÇömachine showdown: Tic-Tac-Toe.
 -- where human brain is pit against silicon processor
 
@@ -17,4 +17,3 @@ Prepare yourself, human. The battle is about to begin.
 
 Do you required the first move? (y/n):
 ```
-

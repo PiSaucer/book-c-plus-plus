@@ -1,6 +1,6 @@
 # Pointing
 
-```text
+```
 Assigning %score to pScore
 &score is: 0x61ff00
 pScore is: 0x61ff00
@@ -27,4 +27,3 @@ str is: score
 (*pStr).size() is: 5
 pStr->size() is: 5
 ```
-

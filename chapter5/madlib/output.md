@@ -1,6 +1,6 @@
 # MadLib
 
-```text
+```
 Welcome to Mad Lib.
 
 Answer the following questions to help create a new story.
@@ -17,4 +17,3 @@ Surrounded by 2457812 salamanders, a tear came to KerenΓÇÖs bellybutton.
 After all this time, the quest was finally over. And then, the salamanders
 promptly devoured Keren. The moral of the story? Be careful what you dance for.
 ```
-

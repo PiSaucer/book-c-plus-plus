@@ -1,6 +1,5 @@
 # High Scores
-
-```text
+```
 Creating a list of scores.
 High Scores:
 1500
@@ -23,4 +22,3 @@ High Scores:
 3500
 7500
 ```
-

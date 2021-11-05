@@ -1,6 +1,5 @@
 # HeroInventory3.0
-
-```text
+```
 Your items:
 sword
 armor
@@ -29,4 +28,3 @@ crossbow
 battle axe
 shield
 ```
-

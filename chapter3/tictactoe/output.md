@@ -1,6 +1,5 @@
 # TicTacToe
-
-```text
+```
 Here's the tic-tac-toe board:
 0X0
  XX
@@ -15,4 +14,3 @@ X00
 
 'X' wins!
 ```
-

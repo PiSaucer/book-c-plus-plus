@@ -1,6 +1,5 @@
 # HeroInventory
-
-```text
+```
 Your items:
 sword
 armor
@@ -21,4 +20,3 @@ armor
 shield
 healing potion
 ```
-

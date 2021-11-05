@@ -1,8 +1,7 @@
 # WordJumble
 
 ## Glasses
-
-```text
+```
                         Welcome to Word Jumble!
 
 Unscramble the letters to make a word.
@@ -19,8 +18,7 @@ Thanks for playing.
 ```
 
 ## Jumble
-
-```text
+```
                         Welcome to Word Jumble!
 
 Unscramble the letters to make a word.
@@ -37,8 +35,7 @@ Thanks for playing.
 ```
 
 ## Labored
-
-```text
+```
                         Welcome to Word Jumble!
 
 Unscramble the letters to make a word.
@@ -55,8 +52,7 @@ Thanks for playing.
 ```
 
 ## Persistent
-
-```text
+```
                         Welcome to Word Jumble!
 
 Unscramble the letters to make a word.
@@ -73,8 +69,7 @@ Thanks for playing.
 ```
 
 ## Wall
-
-```text
+```
                         Welcome to Word Jumble!
 
 Unscramble the letters to make a word.
@@ -91,8 +86,7 @@ Thanks for playing.
 ```
 
 ## Quit
-
-```text
+```
                         Welcome to Word Jumble!
 
 Unscramble the letters to make a word.
@@ -105,4 +99,3 @@ Your guess: quit
 
 Thanks for playing.
 ```
-

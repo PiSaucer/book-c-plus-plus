@@ -1,2 +1,0 @@
-# HeroInventory3.0
-

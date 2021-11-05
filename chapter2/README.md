@@ -1,2 +1,3 @@
-# Chapter2
+# Chapter 2
 
+[Documentation](../docs/Chapter2/)

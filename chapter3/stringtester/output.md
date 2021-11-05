@@ -1,6 +1,5 @@
 # StringTester
-
-```text
+```
 The phrase is: Game Over!!!
 
 The phrase has 12 characters in it.
@@ -32,4 +31,3 @@ The phrase is now:
 
 The phrase is no more.
 ```
-

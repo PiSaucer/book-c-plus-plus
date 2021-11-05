@@ -1,6 +1,6 @@
 # InventoryReferencer
 
-```text
+```
 Sending the returned reference to cout:
 sword
 
@@ -16,4 +16,3 @@ Altering an object through a returned reference.
 Sending the altered object to cout:
 Healing potion
 ```
-

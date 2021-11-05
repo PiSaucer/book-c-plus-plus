@@ -1,6 +1,5 @@
 # GlobalReach
-
-```text
+```
 In main() glob is: 10
 
 In access_global() glob is: 10
@@ -13,4 +12,3 @@ In change_global() glob is: -10
 
 In main() glob is: -10
 ```
-

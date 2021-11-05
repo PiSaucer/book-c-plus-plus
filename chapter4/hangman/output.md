@@ -1,8 +1,7 @@
 # Hangman
 
 ## Hangman
-
-```text
+```
 Welcome to Hangman. Good luck
 
 
@@ -75,8 +74,7 @@ The word has HANGMAN
 ```
 
 ## Guess
-
-```text
+```
 Welcome to Hangman. Good luck
 
 
@@ -136,8 +134,7 @@ The word has GUESS
 ```
 
 ## Difficult
-
-```text
+```
 Welcome to Hangman. Good luck
 
 
@@ -234,4 +231,3 @@ That's right! T is in the word.
 You guess it!
 The word has DIFFICULT
 ```
-

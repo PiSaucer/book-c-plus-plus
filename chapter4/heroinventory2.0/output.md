@@ -1,6 +1,5 @@
 # HeroInventory2.0
-
-```text
+```
 You have 3 items.
 
 Your items:
@@ -24,4 +23,3 @@ armor
 You were robbed of all of your possessions by a theif.
 You have nothing
 ```
-
