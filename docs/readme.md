@@ -1,3 +1,5 @@
+[Homepage](../)
+
 # Documentation
 
 ## Chapters
