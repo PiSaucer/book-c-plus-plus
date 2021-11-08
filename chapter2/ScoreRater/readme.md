@@ -1,10 +1,12 @@
+[Docs](../../) / [Chapter2](../)
 # ScoreRater
-
-[Documentation](../../docs/Chapter2/ScoreRater/)
+- [ScoreRater 1.0](ScoreRater1.0/)
+- [ScoreRater 2.0](ScoreRater2.0/)
+- [ScoreRater 3.0](ScoreRater3.0/)
 
 # Output
 
-## [ScoreRater1.0](../../docs/Chapter2/ScoreRater/ScoreRater1.0/)
+## [ScoreRater1.0](ScoreRater1.0/)
 ```txt
 This is always displayed.
 
@@ -17,7 +19,9 @@ You scored 500 or more. Nice.
 You scored 1000 or more. Impressive!
 ```
 
-## [ScoreRater2.0](../../docs/Chapter2/ScoreRater/ScoreRater2.0/)
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_073.gif)
+
+## [ScoreRater2.0](ScoreRater2.0/)
 
 ### Score < 1000
 ```txt
@@ -31,7 +35,9 @@ Enter your score: 1001
 You scored 1000 or more. Impressive!
 ```
 
-## [ScoreRater3.0](../../docs/Chapter2/ScoreRater/ScoreRater3.0/)
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_080.gif)
+
+## [ScoreRater3.0](ScoreRater3.0/)
 
 ### Score < 250
 ```txt
@@ -56,3 +62,5 @@ You scored 500 or more. Nice.
 Enter your score: 1001
 You scored 1000 or more. Impressive!
 ```
+
+![Screenshot](../../web/Beginning_Cpp_Through_Game_Programming/Image_082.gif)

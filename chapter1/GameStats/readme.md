@@ -1,8 +1,10 @@
+[Docs](../) / [Chapter1](../)
 # GameStats
+- [GameStats 1.0](GameStats1.0/)
+- [GameStats 2.0](GameStats2.0/)
+- [GameStats 3.0](GameStats3.0/)
 
-[Documentation](../../../docs/Chapter1/GameStats/)
-
-# [GameStats1.0](../../../docs/Chapter1/GameStats/GameStats1.0/)
+# [GameStats1.0](GameStats1.0/)
 
 ## Output
 ```txt
@@ -19,7 +21,9 @@ fuel: 10
 bonus: 10
 ```
 
-# [GameStats2.0](../../../docs/Chapter1/GameStats/GameStats2.0/)
+![ScreenShoot](../../web/Beginning_Cpp_Through_Game_Programming/Image_046.gif)
+
+# [GameStats2.0](GameStats2.0/)
 
 ## Output
 ```txt
@@ -35,7 +39,9 @@ score: 4294967295
 score: 0
 ```
 
-# [GameStats3.0](../../../docs/Chapter1/GameStats/GameStats3.0/)
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_058.gif)
+
+# [GameStats3.0](GameStats3.0/)
 
 ## Output
 ```txt
@@ -43,3 +49,5 @@ score: 1500
 
 To upgrade my ship to a Cruiser will cost 24 Resource Points.
 ```
+
+![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_064.gif)
