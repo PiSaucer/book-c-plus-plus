@@ -15,7 +15,7 @@
         - [GameStats](../Chapter1/GameStats/)
             - [GameStats 1.0](../Chapter1/GameStats/GameStats1.0/)
             - [GameStats 2.0](../Chapter1/GameStats/GameStats2.0/)
-            - [GameStats 3.0](C../hapter1/GameStats/GameStats3.0/)
+            - [GameStats 3.0](../Chapter1/GameStats/GameStats3.0/)
         - [LostFortune](C../hapter1/LostFortune/)
 - [Chapter 2 - Truth, Branching, and the Game Loop: Guess My Number.](../Chapter2/)
     - [Resources](../Chapter2/#resources)
