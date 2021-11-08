@@ -1,4 +1,4 @@
-[Docs](../../../) / [Chapter2](../../) / [PlayAgain](../)
+[Docs](../../../docs/) / [Chapter2](../../) / [PlayAgain](../)
 # Introducing the Play Again 2.0 Program
 
 ![ScreenShot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_092.gif)

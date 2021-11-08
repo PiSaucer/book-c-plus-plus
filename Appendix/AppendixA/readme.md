@@ -1,4 +1,4 @@
-[Docs](../../) / [Apendix](../)
+[Docs](../../docs/) / [Apendix](../)
 # Appendix A - Creating You First C++ Program
 
 Follow these steps to write, save, compile, and run your first program using Mircosoft's Visual C++ 2010 Express, a popular and free IDE for the Windows platform.

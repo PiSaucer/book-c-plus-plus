@@ -1,4 +1,4 @@
-[Docs](../../../) / [Chapter1](../../) / [GameStats](../)
+[Docs](../../../docs/) / [Chapter1](../../) / [GameStats](../)
 # Introducing the Game Stats Program
 
 ![ScreenShoot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_046.gif)

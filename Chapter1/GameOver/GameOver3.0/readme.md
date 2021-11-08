@@ -1,4 +1,4 @@
-[Docs](../../../) / [Chapter1](../../) / [GameOver](../)
+[Docs](../../../docs/) / [Chapter1](../../) / [GameOver](../)
 # Introducing the Game Over 3.0 Program
 
 ![ScreenShot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_030.gif)

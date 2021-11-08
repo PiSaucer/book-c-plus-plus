@@ -1,4 +1,4 @@
-[Docs](../../) / [Chapter6](../)
+[Docs](../../docs/) / [Chapter6](../)
 # Summary
 In this chapter, you  should have learned the following concepts:
 - A reference is an alias; it’s another name for a variable.

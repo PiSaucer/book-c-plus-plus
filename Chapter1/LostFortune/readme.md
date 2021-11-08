@@ -1,4 +1,4 @@
-[Docs](../../) / [Chapter1](../)
+[Docs](../../docs/) / [Chapter1](../)
 # Introducing Lost Fortune
 
 

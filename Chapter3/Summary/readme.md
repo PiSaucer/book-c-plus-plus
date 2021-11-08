@@ -1,4 +1,4 @@
-[Docs](../../) / [Chapter3](../)
+[Docs](../../docs/) / [Chapter3](../)
 # Summary
 In this chapter, you  should have learned the following concepts:
 - The 'for' loop lets you repeat a section of code. In a 'for' loop, you can provide an initialization statement, an expression to test, and an action to take after each loop iteration.

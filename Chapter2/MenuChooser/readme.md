@@ -1,4 +1,4 @@
-[Docs](../../) / [Chapter2](../)
+[Docs](../../docs/) / [Chapter2](../)
 # Introducing the Menu Chooser Program
 
 ![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_089.gif)
