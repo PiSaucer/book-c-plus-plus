@@ -1,3 +1,5 @@
 *.scss linguist-detectable=false
 *.html linguist-detectable=false
 *.md linguist-detectable=false
+*.rtf linguist-detectable=false
+*.docx linguist-detectable=false
