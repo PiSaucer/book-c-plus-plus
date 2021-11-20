@@ -1,6 +1,7 @@
-*.scss linguist-detectable=false
 *.md linguist-detectable=false
 *.rtf linguist-detectable=false
 *.docx linguist-detectable=false
 *.html linguist-detectable=false
 *.htm linguist-detectable=false
+*.scss linguist-detectable=false
+*.css linguist-detectable=false
