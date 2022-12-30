@@ -4,3 +4,5 @@ show_downloads: true
 remote_theme: https://github.com/pisaucer/tweakprimer
 plugins:
 - jekyll-remote-theme
+
+baseurl: /book-c-plus-plus
