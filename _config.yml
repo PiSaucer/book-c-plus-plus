@@ -2,6 +2,8 @@ title: C++ Book
 show_downloads: true
 
 # remote_theme: https://github.com/pisaucer/tweakprimer
+theme: jekyll-theme-architect
+
 plugins:
 - jekyll-remote-theme
 
