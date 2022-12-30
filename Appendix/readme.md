@@ -1,4 +1,3 @@
-[Docs](../docs)
 # Appendix
 
 - [Appendix A - Creating You First C++ Program](AppendixA/)
