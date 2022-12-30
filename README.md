@@ -16,7 +16,7 @@
   
   <br>
   <br>
-  <a href="docs/">Check out the documentation</a>
+  <a href="https://pisaucer.github.io/book-c-plus-plus/">Check out the documentation</a>
   <br>
   <br>
   
