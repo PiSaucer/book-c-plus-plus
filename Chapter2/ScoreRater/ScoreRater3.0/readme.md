@@ -1,4 +1,3 @@
-[Docs](../../../docs/) / [Chapter2](../../) / [ScoreRater](../)
 # Introducing the Score Rater 3.0 Program
 
 ![Screenshot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_082.gif)

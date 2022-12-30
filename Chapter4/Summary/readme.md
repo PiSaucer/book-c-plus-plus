@@ -1,4 +1,3 @@
-[Docs](../../docs) / [Chapter4](../)
 # Summary
 In this chapter, you  should have learned the following concepts:
 - The Standard Template Library (STL) is a powerful collection of programming code that provides containers, algorithms, and iterators.

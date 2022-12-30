@@ -1,4 +1,3 @@
-[Docs](../../docs/) / [Chapter2](../)
 # Introducing the Finicky Counter Program
 
 ![ScreenShot](../../web/Beginning_Cpp_Through_Game_Programming/Image_098.gif)

@@ -1,4 +1,3 @@
-[Docs](../../docs/) / [Chapter2](../)
 # Questions and Answers
 
 Q: Do you have to use the keywords 'true' and 'false'? 

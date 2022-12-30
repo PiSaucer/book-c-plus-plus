@@ -1,4 +1,3 @@
-[Docs](../../../docs/) / [Chapter1](../../) / [GameStats](../)
 # Introducing the Game Stats 2.0 Program
 
 ![ScreenShot](../../../web/Beginning_Cpp_Through_Game_Programming/Image_058.gif)

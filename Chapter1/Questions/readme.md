@@ -1,4 +1,3 @@
-[Docs](../../docs/) / [Chapter1](../)
 # Questions and Answers
 
 Q: Why do game companies use C++?

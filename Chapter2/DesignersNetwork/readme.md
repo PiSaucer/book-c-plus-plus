@@ -1,5 +1,3 @@
-[Docs](../../docs/) / [Chapter2](../)
-
 # Introducing the Designers Network Program
 
 The Designers Network program simulates a computer network in which only a select group of game designers are members. Like real-world computer systems, each member must enter a username and a password to log in. With a successful login, the member is personally greeted. To log in as a guest, all a user needs to do is enter `guest` at either the username or password prompt. 

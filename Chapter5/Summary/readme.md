@@ -1,4 +1,3 @@
-[Docs](../../docs/) / [Chapter5](../)
 # Summary
 In this chapter, you  should have learned the following concepts:
 - Functions allow you to break up your programs into manageable chunks.

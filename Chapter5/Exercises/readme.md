@@ -1,4 +1,3 @@
-[Docs](../../docs/) / [Chapter5](../)
 # Exercises
 
 1. What’s wrong with the following prototype?

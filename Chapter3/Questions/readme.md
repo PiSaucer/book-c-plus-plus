@@ -1,4 +1,3 @@
-[Docs](../../docs/) / [Chapter3](../)
 # Questions and Answers
 
 Q: Which is better, a 'while' loop or a 'for' loop?

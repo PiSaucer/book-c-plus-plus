@@ -1,4 +1,3 @@
-[Docs](../../docs/) / [Chapter6](../)
 # Questions and Answers
 
 Q: Different programmers put the reference operator (&) in different places when declaring a reference. Where should I put it?

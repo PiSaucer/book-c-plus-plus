@@ -1,4 +1,3 @@
-[Docs](../../docs/) / [Chapter2](../)
 # Summary
 In this chapter, you  should have learned the following concepts:
 - You can use the truth or falsity of an expression to branch to (or skip) sections of code.
