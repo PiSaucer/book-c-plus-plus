@@ -1,7 +1,7 @@
 title: C++ Book
 show_downloads: true
 
-remote_theme: https://github.com/pisaucer/tweakprimer
+# remote_theme: https://github.com/pisaucer/tweakprimer
 plugins:
 - jekyll-remote-theme
 
