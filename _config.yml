@@ -6,3 +6,4 @@ plugins:
 - jekyll-remote-theme
 
 baseurl: /book-c-plus-plus
+url: http://PiSaucer.github.io
