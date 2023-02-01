@@ -7,3 +7,11 @@ plugins:
 
 baseurl: /book-c-plus-plus
 url: http://PiSaucer.github.io
+
+github: [metadata]
+
+kramdown:
+  highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
