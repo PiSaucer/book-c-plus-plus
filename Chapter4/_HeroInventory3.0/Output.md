@@ -13,7 +13,7 @@ shield
 
 The item name 'battle axe' has 10 letters in it.
 
-The item name 'battle axe' has10 letters in it.
+The item name 'battle axe' has 10 letters in it.
 
 You recover a crossbow from a slain enemy.
 Your items:
@@ -27,4 +27,5 @@ Your items:
 crossbow
 battle axe
 shield
+
 ```
