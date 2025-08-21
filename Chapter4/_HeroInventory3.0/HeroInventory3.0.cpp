@@ -35,7 +35,7 @@ int main()
     cout << "\nThe item name '" << *myIterator << "' has ";
     cout << (*myIterator).size() << " letters in it.\n";
 
-    cout << "\nThe item name '" << *myIterator << "' has";
+    cout << "\nThe item name '" << *myIterator << "' has ";
     cout << myIterator->size() << " letters in it.\n";
 
     cout << "\nYou recover a crossbow from a slain enemy.";
@@ -55,4 +55,5 @@ int main()
     }
     
     return 0;
+
 }
